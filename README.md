@@ -1,37 +1,67 @@
-# 🌟 HOCINDO: Hotel Kreatif, Kelas Bisnis & Investasi
+# Hocindo
 
-Selamat datang di **HOCINDO**, destinasi digital yang menggabungkan kreativitas, bisnis, dan peluang investasi dalam ekosistem terdesentralisasi! Kami adalah platform inovatif yang terinspirasi dari konsep *hotel kreatif*—tempat di mana ide-ide brilian bertemu dengan strategi bisnis cerdas dan peluang investasi berbasis blockchain. 🚀
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hocindo/hocindo.github.io/main/assets/hocindo_logo2.svg" alt="Hocindo Logo" width="180">
+</p>
 
-Dengan HOCINDO, kamu bisa:
-- **Belajar Bisnis**: Ikuti kelas dan tutorial untuk mengasah keterampilan bisnis dan investasi.
-- **Berinvestasi Cerdas**: Manfaatkan teknologi Web3 untuk donasi, crowdfunding, atau investasi terdesentralisasi.
-- **Berkreasi**: Wujudkan ide kreatifmu dalam proyek berbasis blockchain, seperti smart contract untuk donasi atau NFT.
+<p align="center">
+  <a href="https://www.instagram.com/hotelcintadolar/">
+    <img src="https://img.shields.io/badge/Instagram-hocindo-pink?logo=instagram&logoColor=white">
+  </a>
+  <a href="https://x.com/hocindo">
+    <img src="https://img.shields.io/badge/hocindo-blue?logo=x&logoColor=white">
+  </a>
+  <a href="https://www.facebook.com/hotelcintadolar">
+    <img src="https://img.shields.io/badge/Facebook-hocindo-blue?logo=facebook&logoColor=white">
+  </a>
+</p>
 
-Proyek ini adalah langkah awal untuk membangun komunitas yang kreatif dan berpikiran maju. Yuk, bergabung dan wujudkan masa depan bisnis bersama HOCINDO! 🏨💡
+<p align="center">
+  <b>Hotel Kreatif</b> yang menggabungkan <b>penginapan</b>, <b>bisnis</b>, dan <b>investasi strategis</b> dengan konsep premium dan berkelanjutan.
+</p>
 
-## 📖 Tentang HOCINDO
-HOCINDO adalah proyek open-source yang mengintegrasikan teknologi **Web3** untuk mendukung ekosistem bisnis dan investasi. Salah satu fitur awalnya adalah **KotakAmal**, sebuah smart contract sederhana untuk penggalangan dana terdesentralisasi, yang memungkinkan donasi transparan dan aman di blockchain Ethereum.
+---
 
-### Fitur Utama
-- **Kotak Amal Digital**: Smart contract berbasis Solidity untuk menerima donasi dalam Ether (ETH).
-- **Transparansi Blockchain**: Lacak total donasi secara real-time di blockchain.
-- **Keamanan**: Hanya pemilik kontrak yang dapat menarik dana, dengan verifikasi ketat.
-- **Edukasi Bisnis**: Rencana pengembangan kelas bisnis dan investasi berbasis komunitas.
-- **Kreativitas**: Platform untuk ide-ide inovatif, seperti NFT atau aplikasi terdesentralisasi (dApps).
+## ✨ Tentang Kami
+**Hocindo** adalah hotel kreatif yang memiliki fitur:
+- 🏨 Penginapan sederhana hingga resor bintang lima  
+- 💖 Paket romantis, pernikahan, dan acara spesial  
+- 📈 Investasi properti hotel dengan sistem bagi hasil tinggi  
 
-## 🚀 Mulai Sekarang
-Ikuti langkah-langkah berikut untuk menjalankan proyek HOCINDO di lingkungan lokalmu.
+### 🎯 Visi
+Visi kami adalah **menciptakan pengalaman menginap yang nyaman sekaligus memberikan peluang investasi yang menguntungkan.**
 
-### Prasyarat
-- [Node.js](https://nodejs.org/) (versi 18 atau lebih baru)
-- [MetaMask](https://metamask.io/) untuk interaksi dengan blockchain
-- [Git](https://git-scm.com/) untuk cloning repositori
-- [Hardhat](https://hardhat.org/) atau [Truffle](https://trufflesuite.com/) untuk pengembangan smart contract
-- Akun [Infura](https://infura.io/) atau [Alchemy](https://alchemy.com/) untuk akses testnet (opsional)
-- Docker (opsional, untuk menjalankan node blockchain lokal)
+---
 
-### Instalasi
-1. **Clone Repositori**:
-   ```bash
-   git clone https://github.com/hocindo/HOCINDO.git
-   cd HOCINDO
+## ⚙️ Tech Stack
+
+| Kategori | Teknologi |
+|----------|-----------|
+| 🌐 Website | [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |
+| 🎨 Desain | [SVG](https://developer.mozilla.org/en-US/docs/Web/SVG), Figma, Canva |
+| 🚀 Deployment | [GitHub Pages](https://pages.github.com/) |
+| 💳 Investasi & Bisnis | Smart Contracts, Blockchain (Ethereum/Polygon) |
+| 📊 Data & Analitik | Google Analytics, AI-powered insights |
+
+---
+
+## 🛣️ Roadmap
+
+| Tahun | Fokus Utama | Rencana Strategis |
+|-------|-------------|------------------|
+| **2025** | Fondasi & Branding | - Peluncuran platform `Hocindo` <br> - Logo & identitas visual <br> - Website resmi & profil investasi |
+| **2026** | Ekspansi & Produk | - Pembukaan hotel kreatif pertama <br> - Paket pengalaman romantis & bisnis <br> - Program investasi properti tahap awal |
+| **2027** | Skala & Globalisasi | - Ekspansi ke beberapa kota besar di Indonesia <br> - Kemitraan internasional <br> - Platform investasi berbasis blockchain |
+
+---
+
+## 📬 Kontak
+📍 Jl. Panglima Sudirman No. 19, Bandarkedungmulyo, Jombang – Indonesia  
+📧 Email: [ringinbambu@gmail.com](mailto:ringinbambu@gmail.com)  
+📱 WhatsApp: [+62 8999 587 888](https://wa.me/628999587888)  
+
+---
+
+<p align="center">
+  © 2025 <b>Hocindo</b> – Semua hak dilindungi
+</p>
