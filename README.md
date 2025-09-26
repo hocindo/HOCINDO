@@ -38,7 +38,7 @@ Menyediakan akomodasi yang memadukan kesederhanaan elegan dengan kemewahan moder
 
 ### 🛏️ Produk Hocindo
 - **Layanan Hospitalitas**: Pengalaman menginap kelas dunia yang menggabungkan kenyamanan dan kemewahan untuk berbagai kebutuhan, dari wisata hingga acara khusus.
-- **Investasi Saham Tertutup**: Program investasi properti hotel yang dirancang untuk memberikan nilai tambah jangka panjang dengan bagi hasil yang menarik.
+- **Investasi Saham Tertutup**: Program investasi properti hotel dan lainnya yang dirancang untuk memberikan nilai tambah jangka panjang dengan bagi hasil yang menarik.
 
 ---
 
