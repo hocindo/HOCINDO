@@ -14,6 +14,9 @@
   <a href="https://www.facebook.com/hotelcintadolar">
     <img src="https://img.shields.io/badge/Facebook-hocindo-blue?logo=facebook&logoColor=white">
   </a>
+  <a href="https://t.me/hocindo">
+  <img src="https://img.shields.io/badge/Telegram-hocindo-blue?logo=telegram&logoColor=white">
+  </a>
 </p>
 
 <p align="center">
@@ -90,6 +93,7 @@ AgGrid(df, gridOptions=gb.build(), height=300)
 📍 Jl. Panglima Sudirman No. 19, Bandarkedungmulyo, Jombang – Indonesia  
 📧 Email: [ringinbambu@gmail.com](mailto:ringinbambu@gmail.com)  
 📱 WhatsApp: [+62 8999 587 888](https://wa.me/628999587888)  
+📱 Telegram: [@hocindo](https://t.me/hocindo)
 
 ---
 
