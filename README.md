@@ -4,99 +4,240 @@
   <img src="https://raw.githubusercontent.com/hocindo/hocindo.github.io/e82fcbdb99cb764ce0175b9501449de7e2327bc1/hocindo.svg" alt="Hocindo Logo" width="180">
 </p>
 
-<p align="center">
+<div align="center">
+  <strong>🏨 Hotel Kreatif Berbasis Blockchain</strong><br>
+  Menggabungkan <strong>penginapan premium</strong>, <strong>bisnis inovatif</strong>, dan <strong>investasi saham berbasis crypto</strong> dengan konsep berkelanjutan.
+</div>
+
+<br>
+
+<div align="center">
   <a href="https://www.instagram.com/hotelcintadolar/">
-    <img src="https://img.shields.io/badge/Instagram-hocindo-pink?logo=instagram&logoColor=white">
+    <img src="https://img.shields.io/badge/Instagram-hocindo-E1306C?logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://x.com/hocindo">
-    <img src="https://img.shields.io/badge/hocindo-blue?logo=x&logoColor=white">
+    <img src="https://img.shields.io/badge/Twitter-hocindo-1DA1F2?logo=twitter&logoColor=white" alt="Twitter">
   </a>
   <a href="https://www.facebook.com/hotelcintadolar">
-    <img src="https://img.shields.io/badge/Facebook-hocindo-blue?logo=facebook&logoColor=white">
+    <img src="https://img.shields.io/badge/Facebook-hocindo-1877F2?logo=facebook&logoColor=white" alt="Facebook">
   </a>
   <a href="https://t.me/hocindo">
-  <img src="https://img.shields.io/badge/Telegram-hocindo-blue?logo=telegram&logoColor=white">
+    <img src="https://img.shields.io/badge/Telegram-hocindo-0088CC?logo=telegram&logoColor=white" alt="Telegram">
   </a>
-</p>
-
-<p align="center">
-  <b>Hotel Kreatif</b> yang menggabungkan <b>penginapan premium</b>, <b>bisnis inovatif</b>, dan <b>investasi strategis</b> dengan konsep berkelanjutan.
-</p>
+  <a href="https://hocindo.streamlit.app/">
+    <img src="https://img.shields.io/badge/Streamlit-Dashboard-orange?logo=streamlit&logoColor=white" alt="Dashboard">
+  </a>
+</div>
 
 ---
 
-## ✨ Tentang Kami
-**Hocindo** adalah hotel kreatif yang menawarkan pengalaman unik melalui:
-- 🏨 Akomodasi berkualitas, dari penginapan sederhana hingga resor bintang lima.
-- 💖 Paket eksklusif untuk acara romantis, pernikahan, dan kegiatan spesial lainnya.
-- 📈 Investasi saham tertutup dengan potensi bagi hasil yang kompetitif.
+## ✨ Tentang Hocindo
 
-Dengan konstitusi baru Hocindo yang menjunjung tinggi privasi, data pembeli saham tertutup dijaga kerahasiaannya untuk memastikan keamanan dan kepercayaan investor.
+**Hocindo** adalah platform inovatif yang mengintegrasikan industri perhotelan dengan ekosistem cryptocurrency, menawarkan:
 
-### 🎯 Visi
-Menghadirkan pengalaman menginap yang tak terlupakan sekaligus mendukung kesuksesan bisnis yang berkelanjutan bagi para mitra dan investor.
+<div align="center">
+<table>
+<tr>
+<td align="center" width="33%">
+  <div style="font-size: 1.5em">🏨</div>
+  <strong>Akomodasi Premium</strong><br>
+  Dari penginapan sederhana hingga resor bintang 5
+</td>
+<td align="center" width="33%">
+  <div style="font-size: 1.5em">💖</div>
+  <strong>Paket Eksklusif</strong><br>
+  Acara romantis, pernikahan, & event spesial
+</td>
+<td align="center" width="33%">
+  <div style="font-size: 1.5em">📈</div>
+  <strong>Investasi Crypto</strong><br>
+  Saham berbasis blockchain dengan smart contracts
+</td>
+</tr>
+</table>
+</div>
 
-### 🎯 Misi
-Menyediakan akomodasi yang memadukan kesederhanaan elegan dengan kemewahan modern, mengutamakan kenyamanan tamu, kepuasan pelanggan, dan keuntungan investor.
+### 🔒 Keamanan & Privasi
+- Data investor dilindungi sesuai konstitusi Hocindo
+- Smart contracts ter-audit untuk transparansi
+- Wallet integration dengan multi-signature security
+- Compliance dengan regulasi crypto internasional
 
-### 🛏️ Produk Hocindo
-- **Layanan Hospitalitas**: Pengalaman menginap kelas dunia yang menggabungkan kenyamanan dan kemewahan untuk berbagai kebutuhan, dari wisata hingga acara khusus.
-- **Investasi Saham Tertutup**: Program investasi properti hotel dan lainnya yang dirancang untuk memberikan nilai tambah jangka panjang dengan bagi hasil yang menarik.
+### 🎯 Visi & Misi
+
+| **Visi** | **Misi** |
+|----------|----------|
+| Menjadi pelopor hotel kreatif berbasis blockchain yang menghadirkan pengalaman menginap premium sekaligus peluang investasi crypto berkelanjutan global | Menyediakan akomodasi berkualitas tinggi dengan teknologi blockchain, memastikan kenyamanan tamu, kepuasan pelanggan, dan return investasi optimal melalui inovasi DeFi |
+
+---
+
+## 🛏️ Produk & Layanan
+
+### 1. **Hospitalitas Premium**
+- **Kamar & Suite**: Desain modern dengan fasilitas lengkap
+- **Paket Khusus**: Honeymoon, wedding, corporate retreat
+- **Pembayaran Crypto**: Bitcoin, Ethereum, USDT, dan stablecoins
+- **Smart Room**: IoT integration untuk pengalaman personalized
+
+### 2. **Investasi Saham Berbasis Crypto**
+- **Tokenisasi Aset Hotel**: Kepemilikan properti melalui NFT & tokens
+- **DeFi Yield Farming**: Staking rewards dari revenue hotel
+- **Smart Contract Dividends**: Pembagian keuntungan otomatis
+- **Liquidity Pool**: Trading token hotel di DEX terkemuka
+
+### 3. **Platform Digital**
+- **Dashboard Investasi**: Real-time portfolio tracking
+- **Crypto Payment Gateway**: Integrasi dengan berbagai blockchain
+- **NFT Membership**: Hak istimewa eksklusif untuk holder
+- **DAO Governance**: Voting rights untuk pemegang token
 
 ---
 
 ## ⚙️ Tech Stack
 
-| Kategori                | Teknologi                                                                 |
-|-------------------------|---------------------------------------------------------------------------|
-| 🌐 Website             | [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [Python](https://www.python.org/) |
-| 🎨 Desain              | [SVG](https://developer.mozilla.org/en-US/docs/Web/SVG), Figma, Canva     |
-| 🚀 Deployment          | [GitHub Pages](https://pages.github.com/)                                |
-| 💳 Investasi & Bisnis  | Saham, Emas, Bitcoin, Forex, Blockchain (Ethereum/Polygon)               |
-| 📊 Data & Analitik     | Google Analytics, AI-powered insights                                   |
-| 💼 Pembukuan           | [Hocindo Streamlit Dashboard](https://hocindo.streamlit.app/)            |
+| **Kategori** | **Teknologi** | **Deskripsi** |
+|--------------|---------------|---------------|
+| 🌐 **Frontend** | HTML5, CSS3, JavaScript, React | Website responsif & aplikasi web progresif |
+| 🎨 **Design** | SVG, Figma, Tailwind CSS | UI/UX modern crypto-friendly |
+| 🐍 **Backend** | Python, FastAPI, Django | API services & data processing |
+| 🔗 **Blockchain** | Ethereum, Polygon, Solana, Smart Contracts (Solidity) | Tokenisasi aset & DeFi protocols |
+| 💳 **Crypto** | Web3.js, Ethers.js, CCXT, Moralis | Wallet integration & exchange APIs |
+| 📊 **Data** | PostgreSQL, Redis, Google Analytics | Database & analytics infrastructure |
+| 🚀 **Deployment** | Docker, AWS, Vercel, GitHub Pages | Cloud infrastructure & CI/CD |
+| 📈 **Dashboard** | Streamlit, Plotly, AgGrid | Financial analytics & portfolio management |
+| 🔒 **Security** | Multi-sig wallets, Audit smart contracts, 2FA | Enterprise-grade security protocols |
 
-### 🐍 Penggunaan Python
-Python digunakan untuk mengembangkan **Dashboard Keuangan HOCINDO**, sebuah aplikasi berbasis [Streamlit](https://streamlit.io/) yang mengelola transaksi investasi saham tertutup. Fitur utama meliputi:
-- **Manajemen Transaksi**: Menambah, menghapus, dan mengedit transaksi investasi.
-- **Visualisasi Data**: Grafik interaktif menggunakan [Plotly](https://plotly.com/python/) untuk analisis investasi.
-- **Integrasi GitHub**: Sinkronisasi data transaksi melalui GitHub API.
-- **Keamanan Data**: Autentikasi pengguna dan perlindungan privasi data sesuai konstitusi baru Hocindo.
-- **Fitur ROI**: Kalkulator perkiraan pendapatan berbasis persentase ROI.
-
-Contoh kode untuk tabel interaktif dengan kolom `saham` dan `saldo` yang diperpendek:
+### 🐍 Python Dashboard Features
 ```python
+# Core Features
 import streamlit as st
-from st_aggrid import AgGrid, GridOptionsBuilder
+import plotly.express as px
+import ccxt
+from web3 import Web3
 
-# Tabel Interaktif
-gb = GridOptionsBuilder.from_dataframe(df)
-gb.configure_column("saham", width=100)  # Lebar kolom saham
-gb.configure_column("saldo", width=120)  # Lebar kolom saldo
-gb.configure_selection("single")
-AgGrid(df, gridOptions=gb.build(), height=300)
+# Crypto Price Integration
+@st.cache_data
+def get_crypto_prices():
+    exchange = ccxt.binance()
+    return exchange.fetch_tickers(['BTC/USDT', 'ETH/USDT'])
+
+# Smart Contract Interaction
+w3 = Web3(Web3.HTTPProvider('https://polygon-rpc.com'))
+contract = w3.eth.contract(address=TOKEN_ADDRESS, abi=ABI)
+
+# Portfolio Analytics
+def calculate_roi(transactions):
+    # Advanced ROI calculations with DeFi metrics
+    pass
 ```
 
----
+ Roadmap DevelopmentTahun
+Quarter
+Milestone
+Key Deliverables
+Status
+2025
+Q1
+Foundation
+<ul><li>Legal entity & crypto license</li><li>Team assembly & smart contract audit</li><li>Token economics design</li></ul>
+ Planning
+2025
+Q2
+Platform Launch
+<ul><li>Website & wallet integration</li><li>Streamlit dashboard MVP</li><li>Private sale token</li></ul>
+ In Progress
+2025
+Q3
+First Hotel
+<ul><li>Hotel acquisition/pilot</li><li>Crypto payment gateway</li><li>Token listing on DEX</li></ul>
+ Upcoming
+2025
+Q4
+Ecosystem
+<ul><li>NFT membership launch</li><li>DeFi staking pool</li><li>DAO governance activation</li></ul>
+ Planned
+2026
+Q1-Q2
+Scale Up
+<ul><li>Multiple hotel properties</li><li>International partnerships</li><li>CEX listings</li></ul>
+ Future
+2026
+Q3-Q4
+Global
+<ul><li>Asia-Pacific expansion</li><li>Layer-2 optimization</li><li>Enterprise blockchain solutions</li></ul>
+ Future
+2027+
+Annual
+Maturity
+<ul><li>Global hotel chain</li><li>Full DeFi ecosystem</li><li>IPO preparation</li></ul>
+ Vision
 
-## 🛣️ Roadmap
+Legend:  Live |  In Progress |  Upcoming |  Planned |  Future TokenomicsParameter
+Details
+Total Supply
+1,000,000,000 HOC Tokens
+Allocation
+<ul><li>40% Ecosystem & Development</li><li>25% Hotel Operations</li><li>20% Investor Sale</li><li>10% Team & Advisors</li><li>5% Marketing & Partnerships</li></ul>
+Utility
+<ul><li>Hotel booking discounts</li><li>Staking rewards</li><li>Governance voting</li><li>Revenue sharing</li></ul>
+Vesting
+12-36 months linear vesting
+Burn Mechanism
+Quarterly token burn from revenue
 
-| Tahun | Fokus Utama | Rencana Strategis |
-|-------|-------------|------------------|
-| **2025** | Fondasi & Branding | - Peluncuran platform `Hocindo` <br> - Logo & identitas visual <br> - Website resmi & profil investasi |
-| **2026** | Ekspansi & Produk | - Pembukaan hotel kreatif pertama <br> - Paket pengalaman romantis & bisnis <br> - Program investasi properti tahap awal |
-| **2027** | Skala & Globalisasi | - Ekspansi ke beberapa kota besar di Indonesia <br> - Kemitraan internasional <br> - Platform investasi berbasis blockchain |
+ Security & ComplianceSmart Contract SecurityAudits: Multiple audits by top firms (Certik, PeckShield)
+Bug Bounties: Active program with rewards up to $100K
+Multi-sig: Treasury managed by 5/7 multi-signature
+Insurance: Coverage through Nexus Mutual
 
----
+Regulatory ComplianceKYC/AML implementation
+Jurisdiction-specific licensing
+Tax reporting automation
+GDPR & data privacy compliance
 
-## 📬 Kontak
-📍 Jl. Panglima Sudirman No. 19, Bandarkedungmulyo, Jombang – Indonesia  
-📧 Email: [ringinbambu@gmail.com](mailto:ringinbambu@gmail.com)  
-📱 WhatsApp: [+62 8999 587 888](https://wa.me/628999587888)  
-📱 Telegram: [@hocindo](https://t.me/hocindo)
+ Partnership OpportunitiesCategory
+Opportunities
+Benefits
+Hotels
+Property tokenization
+Access to crypto capital, global exposure
+Investors
+Token sale participation
+Early access, staking rewards, governance
+Exchanges
+Token listing
+Trading fees, liquidity provision
+Tech
+Blockchain integration
+Co-development, revenue sharing
 
----
+ Kontak & Support HeadquartersJl. Panglima Sudirman No. 19
+Bandarkedungmulyo, Jombang – Indonesia CommunicationsEmail: ringinbambu@gmail.com (mailto:ringinbambu@gmail.com)
+Business: business@hocindo.com (mailto:business@hocindo.com)
+Support: support@hocindo.com (mailto:support@hocindo.com)
 
-<p align="center">
-  © 2025 <b>Hocindo</b> – Semua hak dilindungi
-</p>
+ Social & CommunityWhatsApp: +62 8999 587 888
+Telegram: @hocindo
+Discord: discord.gg/hocindo
+Twitter: @hocindo
+
+ Crypto DonationsEthereum: 0x... (Mainnet & Polygon)
+Bitcoin: bc1...
+USDT: ERC-20 & TRC-20 compatible
+
+ Legal DisclaimerInvestasi cryptocurrency memiliki risiko tinggi. Lakukan riset sendiri (DYOR) sebelum berinvestasi. Hocindo tidak menjamin return investasi dan tidak bertanggung jawab atas kerugian yang mungkin terjadi.<div align="center">
+  <p><strong>© 2025 Hocindo</strong> – All Rights Reserved</p>
+  <p>Powered by <strong>Blockchain Technology</strong> | <strong>Built for the Future</strong></p>
+</div>
+
+<div align="center">
+  <a href="https://github.com/hocindo/hocindo.github.io">
+    <img src="https://img.shields.io/github/license/hocindo/hocindo.github.io?color=gold" alt="License">
+  </a>
+  <a href="https://github.com/hocindo/hocindo.github.io/stargazers">
+    <img src="https://img.shields.io/github/stars/hocindo/hocindo.github.io?color=orange" alt="Stars">
+  </a>
+  <a href="https://github.com/hocindo/hocindo.github.io/issues">
+    <img src="https://img.shields.io/github/issues/hocindo/hocindo.github.io?color=red" alt="Issues">
+  </a>
+</div>
